@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsCoordsSharp", "BsCoordsSharp\BsCoordsSharp.csproj", "{2AABC4E9-8E24-486A-BE30-031DB544F2E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsCoordsSharp.Test", "BsCoordsSharp.Test\BsCoordsSharp.Test.csproj", "{56042EA7-AF6D-4D2D-930D-0CBDB9FEB043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AABC4E9-8E24-486A-BE30-031DB544F2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AABC4E9-8E24-486A-BE30-031DB544F2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AABC4E9-8E24-486A-BE30-031DB544F2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AABC4E9-8E24-486A-BE30-031DB544F2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56042EA7-AF6D-4D2D-930D-0CBDB9FEB043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56042EA7-AF6D-4D2D-930D-0CBDB9FEB043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56042EA7-AF6D-4D2D-930D-0CBDB9FEB043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56042EA7-AF6D-4D2D-930D-0CBDB9FEB043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F45F78-2F2F-43A9-83A0-A93C7075DE8A}
+	EndGlobalSection
+EndGlobal
