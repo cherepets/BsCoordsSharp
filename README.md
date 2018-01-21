@@ -13,7 +13,7 @@ await BsOpenCellIdClient(apiKey).RequestAsync(mcc, mnc, lac, cid);
 await BsYandexClient().RequestAsync(mcc, mnc, lac, cid);
 ```
 
-[Download from NuGet Gallery](https://www.nuget.org/packages/FourToolkit.Charts/ "Download from NuGet Gallery")
+[Download from NuGet Gallery](https://www.nuget.org/packages/BsCoordsSharp/ "Download from NuGet Gallery")
 
 See also: [kolonist/bscoords](https://github.com/kolonist/bscoords "kolonist/bscoords")
 
