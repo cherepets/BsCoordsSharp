@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>cherepets</Authors>
+    <Company>cherepets</Company>
+    <PackageProjectUrl>https://github.com/cherepets/BsCoordsSharp</PackageProjectUrl>
+    <PackageIconUrl>https://i.imgur.com/jk3mnIG.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/cherepets/BsCoordsSharp</RepositoryUrl>
+    <PackageTags>location mac mnc lac cid network</PackageTags>
+    <Description>Library to get location from cellural networks information (MCC, MNC, LAC, CellID) using Google location services, Yandex location services, OpenCellID, Mylnikov Geo and Mozilla Location Service. Used bscoords library by Alexander Zubakov as a reference.</Description>
   </PropertyGroup>
 
   <ItemGroup>
